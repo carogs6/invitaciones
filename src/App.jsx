@@ -25,7 +25,7 @@ function App() {
   };
 
   return (
-    <div className='bg-fondo3 bg-center bg-cover bg-no-repeat min-h-screen  flex items-center justify-center flex-col text-gray-800'>
+    <div translate="no" className='bg-fondo3 bg-center bg-cover bg-no-repeat min-h-screen  flex items-center justify-center flex-col text-gray-800'>
       <div className='bg-slate-200/40 sm:w-4/5 rounded-2xl m-6 px-3 pb-6 flex items-center justify-center flex-col'>
         <div className='py-6'>
         <h1 className=' flex justify-center text-center text-5xl font-cormorantGaramond'>Grupo Penna</h1>
