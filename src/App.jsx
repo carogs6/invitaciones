@@ -50,7 +50,7 @@ function App() {
       }
       {restriccion && <div>
 
-      </div>
+      </div> 
 
       }
       </div>
