@@ -11,7 +11,7 @@ export default {
         'glitter': "url('/fondo-negro-brillo-desenfocado.jpg')",
         'fondo1': "url('/fondoInvitacion.jpg')",
         'fondo2': "url('/fondo2.jpg')",
-        // 'footer-texture': "url('/img/footer-texture.png')",
+        'fondo3': "url('/fondo3.jpg')",
       },
       fontFamily: {
         cormorantGaramond: ['Cormorant Garamond', 'serif'],
